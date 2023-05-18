@@ -1,0 +1,28 @@
+{
+  "name": "data-table-nextjs",
+  "version": "1.0.1",
+  "description": "Data table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalyaver/data-table.git"
+  },
+  "keywords": [
+    "data",
+    "table"
+  ],
+  "author": "Bilal Yaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilalyaver/data-table/issues"
+  },
+  "homepage": "https://github.com/bilalyaver/data-table#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^18.2.0"
+  }
+}
